@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muhammadyousafb396-byte.github.io/eco-living-hub/sitemap.xml
